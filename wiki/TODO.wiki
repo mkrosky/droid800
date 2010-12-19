@@ -14,4 +14,6 @@ TODO list.
 || Support both scaled and original aspect ratio || Done || v3 ||
 || Credits screen || -- || v4 ||
 || Online manual || -- || v4 ||
-|| Improve sound on slower devices || -- || v4 ||
+|| Fix sound || -- || -- ||
+|| Search directory for ROM file(s) || -- || -- ||
+|| Load and save state from android menu || -- || -- ||
