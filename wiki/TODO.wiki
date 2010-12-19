@@ -1,4 +1,4 @@
-#Droid800 TODO list.
+Droid800 TODO list.
 
 = Introduction =
 
@@ -14,3 +14,4 @@ TODO list.
 || Support both scaled and original aspect ratio || Done || v3 ||
 || Credits screen || -- || v4 ||
 || Online manual || -- || v4 ||
+|| Improve sound on slower devices || -- || v4 ||
