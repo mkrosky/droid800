@@ -16,36 +16,41 @@ Droid800 is an _emulator_; before you can do anything with it you need to transf
 
 = Home Screen = 
 
-The application opens to the home screen on startup: 
+The application opens to the home screen on startup.
 
-http://droid800.googlecode.com/files/homescreen.png
+http://droid800.googlecode.com/files/homescreen-portrait.png
 
 The home screen contains the following elements:
 
+    * A vintage Atari scene in the background :-)
     * The name of the OS file
-    * The name of the program file to be executed at startup.
-    * A "Find OS" button
-    * A "Find ROM" button
+    * The name of the program file to be loaded at startup.
+    * A "Load OS" button
+    * A "Load File" button
+    * A "Clear" button
     * A "Play!" button
 
+There is also a standard Android menu available from the home screen, covered in the Preferences section below.
 
-To select a ROM or OS file, click the corresponding button. Once you have selected the OS file and the program file you want to execute, press the Play! button to launch the emulator. 
+_Quickstart:_
+  * 1) Click the "Load OS" button to browse your storage to find the OS rom to load. The recommended OS file is usually called 'ATARIXL.ROM' and can be found with a google search.
+  * 2) Click on the "Load File" button to browse storage for a program file to run at startup. Supported files types include .atr, .cas, .bin.
+  * 3) Click the "PLAY!" button to launch the emulator.
 
-= Console Controls = 
+= Console and Emulator Controls = 
 
-All switches on the atari console are emulated with the exception of the TV Type switch.
+All Atari console controls and some emulator controls are available in the pop-up button panel. The panel can be activated by pressing the Android menu button.
 
 
-|| Atari Switch	|| Android Device ||
-|| Reset	|| Camera Button ||
-|| Select	|| Search Button ||
-|| Left Player Difficulty A || Y ||
-|| Left Player Difficulty B || U ||
-|| Right Player Difficulty A || I ||
-|| Right Player Difficulty B || O ||
-|| Color / BW || N/A ||
-
-The Reset and Select switches are also available as on-screen controls during game play. See the "On Screen Controls" section. 
+|| Button	|| Function || 
+|| Reset	|| Atari Reset switch ||
+|| Option	|| Atari Option button ||
+|| Select       || Atari Select button ||
+|| Start        || Atari Start button ||
+|| Quit         || Quit the emulator ||
+|| F1           || Bring up the Atari800 menu ||
+|| Escape       || Go back in the Atari800 menu ||
+|| Break        || The Atari "break" key || 
 
 = Game Controls = 
 
