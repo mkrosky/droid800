@@ -98,41 +98,31 @@ The preferences screen is accessed by pressing the Android "menu" key while on t
 
     * Sound: Enable or disable sound output.
     * Max Volume: Limit the volume of the emulator. If the current volume is greater than Max, the volume will be reduced during game play.
+    * Sample Rate: 
 
 == Display Settings ==
 
+    * Landscape Mode: 
+    * Stretch to fill Window: 
+    * Show Speed: 
     * Skip Frames: Skip frames in order to maintain full emulation speed. By default the emulator attempts 60 frames per second which is not attainable on most devices. Set the skip rate to 25% or 50% to enable full speed emulation
-    * Video Timing: Determines how main loop implements delay. Best to stick with the default setting
+    * Video System: Choose NTSC or PAL
 
 == Game Controls ==
 
-    * Acceleromter: Enalbe or disable the accelerometer joystick
+    * Accelerometer: Enalbe or disable the accelerometer joystick
     * On Screen Controls: Enable or disable the on screen controls
-    * On Screen Controls Layout: Decide where the on screen d-pad will be displayed (Bottom Right, Top Right, Bottom Left, Top Left
+    * On Screen Control Layout: Decide where the on screen d-pad will be displayed (Bottom Right, Top Right, Bottom Left, Top Left
     * On Screen Controls Size: Select the size of the on sceen d-pad (smallest, small, medium, or large)
-    * :
 
 == Key Mapping ==
 
-Some emulator actions can be mapped to android hardware keys. The default set of mapped keys:
+Game controls can be mapped to an Android physical keyboard. The default mapping is
 
-    * Android camera key -> Atari reset
-    * Android search key -> Atari game select
-    * Android "Y" key -> P0 Difficulty to A
-    * Android "U" key -> P0 Difficulty to B
-    * Android "I" key -> P1 Difficulty to A
-    * Android "O" key -> P1 Difficulty to B
-    * Android DPad UP -> Up
-    * Android DPad Down -> Down
-    * Android DPad Left -> Left
-    * Android DPad right -> Right
-    * Android Menu key -> Fire button
-    * Android "S" key -> Save game state
-    * Android "C" key -> Change game state
-    * Android "L" key -> Load game state 
-
-Alternate mappings can be configured by opening the preferences menu item, and selecting an action from the list. A dialog will open prompting you to select the key you'd like to map to the action. Multiple keys can be slected.
-
-Note: Only physical keyboards and buttons can be mapped. 
+  * Player 1 Joystick Down -> DPAD Down
+  * Player 1 Joystick Up -> DPAD Up
+  * Player 1 Joystick Left -> DPAD Left
+  * Player 1 Joystick Right -> DPAD Right
+  * Player 1 Joystick Trigger -> Left ALT
 
  
