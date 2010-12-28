@@ -2,11 +2,17 @@
 
 = Introduction =
 
-This is the on-line manual for the Droid2600 Atari 2600 VCS emulator. Droid2600 is an Android port, and custom front-end, for the popular Stella Atari VCS emulator.
+This is the on-line manual for the Droid800 Atari 8 bit machine emulator. Droid800 is an Android port, and custom front-end, for the popular <a href="http://atari800.sourceforge.net">Atari800</a> emulator.
+
+= What is an Emulator? =
+
+In this case, an emulator is an application that allows you to run programs written for Atari 8 bit machines like the Atari 800 on your Android device. Your Android phone doesn't have an 810 disk drive or a cartridge slot (duh!), instead Droid800 plays copies of original Atari programs available in several image formats.
+
+For a more general discussion of emulators and file images, I refer you to the following wikipedia articles on <a href="http://en.wikipedia.org/wiki/Emulator">emulation</a> and <a href="http://en.wikipedia.org/wiki/ROM_image">rom images</a>.
 
 = Getting Started = 
 
-In order to do anything useful (like play games) you must transfer roms to the Android device. It is recommended, but not required, that you choose a directory, such as "/sdcard/Droid800", on your sdcard for storing roms. Upload roms to that directory before launching the emulator. For directions on how to load rom files, skip to the Loading_Roms section below. 
+Droid800 is an _emulator_; before you can do anything with it you need to transfer OS _roms_ and program files to your Android device. It is recommended, but not required, that roms be placed in the "/sdcard/Droid800" directory on your SD card. For directions on how to download Atari roms, skip to the Loading_Roms section below. . 
 
 = Home Screen = 
 
