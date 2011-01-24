@@ -39,7 +39,7 @@ _Quickstart:_
 
 = Console and Emulator Controls = 
 
-All Atari console controls and some emulator controls are available in the pop-up button panel. The panel can be activated by pressing the Android menu button.
+All Atari console controls and some emulator controls are available in the pop-up button panel. The panel can be activated by pressing the Android menu button and then the "control panel" menu item.
 
 
 || Button	|| Function || 
@@ -63,13 +63,13 @@ There are several methods of directional control available:
 
 == On Screen Controls ==
 
-The screen is divided into 3 areas:
+The screen is divided into 2 areas:
 
 http://droid2600.googlecode.com/files/onscreencontrols.1.png
 
     * Area 1 contains the on-screen d-pad. A guide is displayed in this area to show the location of the d-pad axis. Touching this section of the screen causes the virtual joystick to be moved in a direction relative to the d-pad axis. This area can be configured to occupy either the left half or the right half of the screen.
     * Area 2 is the trigger area. Touching the screen anywhere in this area causes the trigger button to be pressed. This area can be configured to occupy either the left hand or the right hand part of the screen.
-    * Area 3 contains the start and reset buttons.
+    * Area 3 is reserved for future use.
 
 == Hardware D-Pad ==
 
@@ -84,7 +84,7 @@ The device's accelerometer can be used for directional control, that is - tiltin
 || Right || Tilt device right ||
 || Up || Tilt device foreward (away from you) ||
 || Down	|| Tilt device backwards (toward you) ||
-|| Fire	|| Menu Button ||
+|| Trigger || Entire touchscreen ||
 
 == Mapped Keys ==
 
@@ -93,6 +93,10 @@ Directional controls and the joystick trigger can be mapped to any available har
 = Preferences =
 
 The preferences screen is accessed by pressing the Android "menu" key while on the home screen. 
+
+== System Type ==
+
+Select the type of Atari you want to emulate. The default choice is the 800XL. Your OS rom must match the system type!
 
 == Audio Settings ==
 
@@ -110,6 +114,7 @@ The preferences screen is accessed by pressing the Android "menu" key while on t
 
 == Game Controls ==
 
+    * Configure Default Controller: The type of controller that will be active when you start the emulator.
     * Accelerometer: Enalbe or disable the accelerometer joystick
     * On Screen Controls: Enable or disable the on screen controls
     * On Screen Control Layout: Decide where the on screen d-pad will be displayed (Bottom Right, Top Right, Bottom Left, Top Left
