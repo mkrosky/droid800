@@ -2,7 +2,7 @@
 
 = Introduction =
 
-This is a list of programs I used to test Droid800. For each file I list the title, media type, md5, source, and a brief synopsis of the test result.
+This is a list of programs I use to test Droid800. For each file I list the title, media type, md5, source, and a brief synopsis of the test result.
 
 If you'd like a program added to this list, drop me a line.
 
