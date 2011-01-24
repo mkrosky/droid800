@@ -17,4 +17,4 @@ Test OS: ATARIXL.ROM
 || Basic Cart || ROM || a4dc52536d526ecc51ea857b9fa2b90f || Unknown || Works ||
 || Jawbreaker || ATR || c3c5ceec6f3087d80e660b6e94b232ae || Unknown || Works ||
 || Miner 2049er || BIN || 121a1f82a7fd6a16a3f14ef9952d8082 || Unknown || Works ||
-|| PacMan || ATR || 121a1f82a7fd6a16a3f14ef9952d8082 || Unknown || Works ||
+|| Pac Man || ATR || 121a1f82a7fd6a16a3f14ef9952d8082 || Unknown || Works ||
