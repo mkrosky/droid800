@@ -18,3 +18,4 @@ TODO list.
 || Search directory for ROM file(s) || -- || -- ||
 || Load and save state from android menu || -- || -- ||
 || Crop unused portions of atari screen || Done || v7 ||
+|| Keyboard auto repeat ||  || v10 ||
